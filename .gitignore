@@ -2,14 +2,14 @@
 
 # dependencies
 /my-app/node_modules
-/my-app//.pnp
+/my-app/.pnp
 .pnp.js
 
 # testing
 /my-app//coverage
 
 # production
-/my-app//build
+/my-app/build
 
 # misc
 .DS_Store
